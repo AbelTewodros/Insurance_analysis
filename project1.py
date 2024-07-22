@@ -79,7 +79,7 @@ possible_ms=[i for i in range(-10,11)]
 possible_bs=[j for j in range(-20,21)]
 
 
-lowest_error=100000000000
+lowest_error=int("inf")
 best_ms=0
 best_bs=0
 for i in range(len(possible_ms)):
