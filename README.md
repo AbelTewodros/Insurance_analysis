@@ -3,7 +3,9 @@ Insurance Charges Analysis:
 Thank you for visiting! This repository contains a CSV file and a Python script for analyzing insurance charges.
 
 Contents:
+
 insurance.csv: This file contains a table with insurance information including age, sex, BMI, number of children, smoker status, and charges.
+
 insurance_analysis.py: Python script used to analyze the difference in charges between smokers and non-smokers.
 
 Analysis Summary:
